@@ -1,0 +1,39 @@
+/* Feel free to edit CSS of body if you'd like. We provide you the light gray background color and font family in the body styling */
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  margin: 0;
+  background-color: #e85d12;
+  
+}
+h1 {
+  margin-top:80px;
+  font-weight: bold;
+}
+
+p {
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+.btn {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.btn-primary {
+  font-family: Raleway-SemiBold;
+  font-size: 13px;
+  color: rgba(58, 133, 191, 0.75);
+  letter-spacing: 1px;
+  line-height: 15px;
+  border: 2px solid rgba(58, 133, 191, 0.75);
+  border-radius: 40px;
+  background: transparent;
+  transition: all 0.3s ease 0s;
+}
+
+.btn-primary:hover {
+  color: #FFF;
+  background: rgba(58, 133, 191, 0.75);
+  border: 2px solid rgba(58, 133, 191, 0.75);
+}
+
+/* TODO: Create CSS for your Twitter Mockup */
